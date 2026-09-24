@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Sample API to test Power Platform
+=======
+#    CitiesDemo: Sample API to test Power Platform
+>>>>>>> b9d5f974fa096d9b4fdc77c9a74e32c1232cfe93
 
 This is a sample API to be used to test Power Platform. It has one operation:
 
