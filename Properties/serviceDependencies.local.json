@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "CustomConnector": {
+      "connectionInfo": "Custom Connector: InventoryLocations_Connector (Environment: dinguyen_power_sandbox)",
+      "connectorName": "InventoryLocations_Connector",
+      "environmentUrl": "https://dinguyenpowersandbox.crm.dynamics.com/",
+      "environmentId": "c58455e0-d2d3-ed95-8c78-cbdf602e8005",
+      "type": "powerplatform.local"
+    }
+  }
+}
